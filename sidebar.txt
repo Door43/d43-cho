@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cho:home|Door43 (cho)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cho|d43-cho repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cho/archive/master.zip|d43-cho.zip]]
+
+**Recent Changes**
+{{changes>ns = cho}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cho|Ethnologue data]]
+
